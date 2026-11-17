@@ -1,0 +1,27 @@
+{
+  "name": "Gelatox US \u2014 Skin, Hair & Nail Gummies",
+  "short_name": "Gelatox",
+  "description": "Gelatox is a skin, hair and nail gummy taken two a day. See what the Gelatox label names, all three package prices, the 6 bonuses and the 60-day refund.",
+  "lang": "en-US",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fdf8f4",
+  "theme_color": "#2a0a12",
+  "categories": [
+    "health",
+    "beauty",
+    "shopping"
+  ],
+  "icons": [
+    {
+      "src": "/images/favicon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
